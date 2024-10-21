@@ -3,10 +3,7 @@
 {
 	"name": "Java + Node.js",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"build": {
-        // Path is relative to the devcontainer.json file.
-        "dockerfile": "Dockerfile"
-    },
+	"image": "mcr.microsoft.com/devcontainers/java:1-21",
 
 	"features": {
 		"ghcr.io/devcontainers/features/java:1": {
