@@ -20,7 +20,13 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker"
+				"ms-azuretools.vscode-docker",
+				"redhat.fabric8-analytics",
+				"redhat.vscode-yaml",
+				"sonarsource.sonarlint-vscode",
+				"streetsidesoftware.code-spell-checker",
+				"vmware.vscode-boot-dev-pack",
+				"vscjava.vscode-lombok"
 			]
 		}
 	}
