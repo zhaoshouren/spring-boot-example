@@ -9,5 +9,6 @@
 
   <modules>
     <module>spring-boot-demo</module>
+    <module>zs-spring-boot-starter-example</module>
   </modules>
 </project>
