@@ -26,6 +26,7 @@
 				"redhat.vscode-yaml",
 				"sonarsource.sonarlint-vscode",
 				"streetsidesoftware.code-spell-checker",
+				"VisualStudioExptTeam.vscodeintellicode-completions",
 				"vmware.vscode-boot-dev-pack",
 				"vscjava.vscode-lombok"
 			]
