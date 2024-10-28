@@ -18,9 +18,9 @@ jobs:
         uses: actions/setup-java@v2
         with:
           distribution: 'temurin'
-          java-version: '17'
+          java-version: '21'
           check-latest: false
           cache: 'maven'
       - name: Build with Maven
-        run: 'mvn package'
+        run: 'mvn clean package'
         shell: bash
