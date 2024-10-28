@@ -8,6 +8,8 @@ class SpringBootDemoApplicationTests {
 
 	@Test
 	void contextLoads() {
+		// @SpringBootTest will attempt to load application context, if it fails it will
+		// through exception and this test will fail
 	}
 
 }
